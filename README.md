@@ -6,4 +6,4 @@ Bu programı JAVA 101 eğitimi ile yaptım.
 ![kodlarin fotografi](images/kodlar.png)
 
 ## Programın Fotoğrafı
-![programin fotografi](images/kodlar.png)
+![programin fotografi](images/program.png)
